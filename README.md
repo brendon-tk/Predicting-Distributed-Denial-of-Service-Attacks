@@ -26,6 +26,7 @@ Install the dependencies:
 pip install pandas numpy scikit-learn matplotlib seaborn
 ```
 Visuals:
+
 ![image](https://github.com/user-attachments/assets/80837633-b54b-4267-8baa-b2e19aed03eb)
 ![image](https://github.com/user-attachments/assets/8f403045-d3e2-408e-855e-cb3f754c6763)
 ![image](https://github.com/user-attachments/assets/70b381ed-a160-4793-9a56-ff5524d5b436)
